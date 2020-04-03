@@ -10,4 +10,4 @@ https://hub.docker.com/repository/docker/jcbombardelli/laravel
 
 ## Exec on your operational system
 
-docker push jcbombardelli/laravel:latest
+docker pull jcbombardelli/laravel:latest
