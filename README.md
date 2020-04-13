@@ -13,3 +13,5 @@ docker pull jcbombardelli/laravel:latest
 ## Run Demo Golang
 
 docker run --name codenation jcbombardelli/codenation
+
+## Update
